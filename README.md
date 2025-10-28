@@ -12,11 +12,6 @@ docker-compose up -d
 docker-compose logs -f
 ```
 
-### 3. Test API
-```bash
-python test_api.py
-```
-
 ## API Endpoints
 
 ### Health Check
