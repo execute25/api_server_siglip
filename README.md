@@ -2,6 +2,11 @@
 
 ## Quick Start
 
+### 0. Build
+```bash
+docker-compose up -d --build
+```
+
 ### 1. Start server
 ```bash
 docker-compose up -d
